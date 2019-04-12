@@ -14,6 +14,8 @@ cd sp-sails-chat
 
 npm install
 
+bower install
+
 sails lift
 ```
 
